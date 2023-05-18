@@ -8,6 +8,7 @@
     <artifactId>CS61B</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>intro1</module>
         <module>HW0</module>
@@ -15,6 +16,9 @@
         <module>list1</module>
         <module>list2</module>
         <module>list2</module>
+        <module>testing</module>
+        <module>lab2setup</module>
+        <module>lab2setup</module>
     </modules>
 
     <properties>
