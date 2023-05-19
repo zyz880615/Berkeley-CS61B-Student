@@ -19,6 +19,7 @@
         <module>testing</module>
         <module>lab2setup</module>
         <module>lab2setup</module>
+        <module>lab2</module>
     </modules>
 
     <properties>
